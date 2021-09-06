@@ -15,3 +15,6 @@ My project can do the following things:
 1) Update inventory
 2) Generate bills
 3) Purchase for customers
+
+I've fully tried to make this project look good.
+I Hope you like it. 
