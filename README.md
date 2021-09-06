@@ -17,4 +17,4 @@ My project can do the following things:
 3) Purchase for customers
 
 I've fully tried to make this project look good.
-I Hope you like it. 
+I hope you like it. 
